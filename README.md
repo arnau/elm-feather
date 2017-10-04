@@ -17,7 +17,7 @@ import Feather
 
 view : Html Msg
 view =
-  div [] [ Feather.alertTriangle ]
+  div [] [ Feather.alertTriangle "#7EA" 24  ]
 ```
 
 ## Credits

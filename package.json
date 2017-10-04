@@ -1,8 +1,7 @@
 {
-  "name": "evg",
-  "version": "0.1.0",
-  "description": "Converter from SVG to Elm (elm-svg)",
-  "main": "index.js",
+  "name": "elm-feather",
+  "version": "1.0.0",
+  "description": "Feather icons in Elm",
   "author": "Arnau Siches",
   "private": true,
   "license": "MIT",
