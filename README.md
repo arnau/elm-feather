@@ -1,5 +1,7 @@
 # Feather in Elm
 
+DEPRECATED. Use https://github.com/1602/elm-feather instead.
+
 ## What is Feather?
 
 Quoting [the original project](https://github.com/colebemis/feather)
